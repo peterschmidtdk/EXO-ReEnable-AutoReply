@@ -23,7 +23,7 @@
 .VERSION
   Version : 1.1.0
   Updated : 2025-12-15
-  Author  : Peter
+  Author  : Peter Schmidt
 #>
 
 # ----------------------------
