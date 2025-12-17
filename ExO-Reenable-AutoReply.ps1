@@ -55,7 +55,7 @@
   - Every entry is timestamped.
 
 .VERSION
-  Version : 1.1.0
+  Version : 1.1.1
   Updated : 2025-12-16
   Author  : Peter Schmidt
 #>
