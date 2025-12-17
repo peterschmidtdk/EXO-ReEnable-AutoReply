@@ -57,7 +57,7 @@
 .VERSION
   Version : 1.1.0
   Updated : 2025-12-16
-  Author  : Peter
+  Author  : Peter Schmidt
 #>
 
 # ----------------------------
