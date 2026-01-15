@@ -2,7 +2,7 @@
 
 Two PowerShell scripts that help you **re-enable (toggle)** Exchange Online Out of Office / Automatic Replies (OOF) for users **who already have OOF enabled**, using **app-only authentication**.
 
-This is useful if you need to “refresh” OOF state (disable → re-enable) without accidentally enabling OOF for users who don’t use it.
+This is useful when you need to **refresh** the OOF state (Disable → Enable) to resolve issues where automatic replies appear enabled but **do not trigger correctly**, or where the OOF state is **stuck / inconsistent** after changes, client sync issues, or migrations.
 
 ---
 
